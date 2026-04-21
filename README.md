@@ -10,4 +10,4 @@ Infinity Tap is a minimal incremental game built in Python using tkinter.
 
 ## How to Run
 ```bash
-InfinityTapV6.py
+InfinityTap.py
